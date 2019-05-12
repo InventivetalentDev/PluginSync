@@ -1,0 +1,7 @@
+# Where to download plugins from
+source: "https://my.download.site/downloads/"
+# Where to save plugins
+destination: "updates"
+
+# File names to download
+files: []

@@ -1,0 +1,9 @@
+name: PluginSync
+main: org.inventivetalent.pluginsync.SyncPlugin
+version: ${project.version}
+author: inventivetalent
+api-version: 1.13
+
+commands:
+  download-latest-versions:
+    usage: /<command>
